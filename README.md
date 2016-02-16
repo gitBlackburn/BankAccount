@@ -1,3 +1,3 @@
-SimpleBankAccount
+#SimpleBankAccount
 
  Bank account written in ruby.
